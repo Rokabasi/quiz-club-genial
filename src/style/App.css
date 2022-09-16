@@ -1,0 +1,83 @@
+*{
+  margin: auto;
+  padding: auto;
+}
+body{
+  background: linear-gradient(181.07deg, rgba(208, 47, 182, 0.63) -19.23%, rgba(34, 132, 146, 0.52) 99.09%);
+  font-family: 'Lexend Deca','Courier New', Courier, monospace;
+}
+.main-contain{
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-radius: 20px;
+  padding: 5%;
+  text-align: center;
+  justify-content: center;
+
+}
+h1{
+  color: black;
+  font-size: 1.6rem;
+}
+form{
+  padding-top: 8%;
+}
+.player-name{
+  margin-top: 2%;
+  padding: 2%;
+  border-radius: 20px;
+  border:  2px solid black;
+  width: 75%;
+  
+}
+.btn-jouer{
+  margin-top: 10%;
+  padding: 3%;
+  padding-top: ;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  width: 32%;
+  border: black;
+  width: 80%;
+}
+h3{
+  padding-top: 15%;
+}
+.btn-answer{
+  margin-top: 5%;
+  padding: 2%;
+  border-radius: 20px;
+  border:  2px solid black;
+  background-color: black;
+  width: 75%;
+  color: white;
+  font-size: 1.2rem;
+}
+.btn-answer:active{
+  background-color: #DF91C0;
+  border: 2px solid #DF91C0;
+}
+.question-footer{
+  display: flex;
+}
+.result-name{
+  padding-top: 10%;
+}
+.result-score{
+  padding-top: 15%;
+}
+.btn-replay{
+  margin-top: 15%;
+  padding: 2%;
+  border-radius: 20px;
+  border:  2px solid black;
+  background-color: black;
+  width: 75%;
+  color: white;
+  font-size: 1.2rem;
+}
