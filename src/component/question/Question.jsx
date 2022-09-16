@@ -24,8 +24,8 @@ export default function QuestionContain (props){
                 ))
             }
             <div className="question-footer">
-                <h3>SCORE : {score}</h3>
-                <h3>QUESTION {number+1}/10</h3>
+                <h3 className="score">SCORE : {score}</h3>
+                <h3 className="numero">QUESTION {number+1}/10</h3>
             </div>
         </div> :
         <div>

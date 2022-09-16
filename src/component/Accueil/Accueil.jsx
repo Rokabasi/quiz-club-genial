@@ -8,7 +8,7 @@ export default function Accueil (props){
     const [checkInput, setCheckInput] = useState(true) 
     function validate(e){
         e.preventDefault()
-        name.length > 2 ? setCheckInput(false) : setCheckInput(true)  
+        name.trim().length > 2 ? setCheckInput(false) : setCheckInput(true)  
     }
 
     return(
