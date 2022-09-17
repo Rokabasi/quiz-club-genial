@@ -1,143 +1,143 @@
 export const Question = [
     {
-        questionText:'Qui a créé la statue de la liberté?',
+        questionText:"Quel footballeur ukrainien avait réçu le ballon d'or FIFA en 2024?",
         answers:[
             {
-                answer:'jules vernes',
-                corrrectAnswer:false,
-            },
-            {
-                answer:'Giovanni simone',
-                corrrectAnswer:false,
-            },
-             {
-                answer:'Auguste Bartholdi',
+                answer:'SCHEVCHENKO',
                 corrrectAnswer:true,
             },
             {
-                answer:'Gustave Eiffel',
+                answer:'PAVEL NDEVED',
+                corrrectAnswer:false,
+            },
+             {
+                answer:'MARCO VAN BASTEN',
+                corrrectAnswer:false,
+            },
+            {
+                answer:'MESUT OZIL',
                 corrrectAnswer:false,
             }
         ]
     },
     {
-        questionText:"Qui a inventé le poisson d'avril",
+        questionText:"DE quel pays d'Afrique est originaire la dans MAKOSSA?",
         answers:[
             {
-                answer:'jules vernes',
+                answer:'MALI',
                 corrrectAnswer:false,
             },
             {
-                answer:'Le roi Hokusai',
-                corrrectAnswer:false,
-            },
-             {
-                answer:'le roi français X',
-                corrrectAnswer:false,
-            },
-            {
-                answer:'le roi frança charle IX',
-                corrrectAnswer:true,
-            }
-        ]
-    },
-    {
-        questionText:"Qui a inventé le poisson d'avril?",
-        answers:[
-            {
-                answer:'jules vernes',
-                corrrectAnswer:false,
-            },
-            {
-                answer:'Le roi Hokusai',
-                corrrectAnswer:false,
-            },
-             {
-                answer:'le roi belge phillipes',
-                corrrectAnswer:false,
-            },
-            {
-                answer:'le roi français charle IX',
-                corrrectAnswer:true,
-            }
-        ]
-    },
-    {
-        questionText:"Quand les mangas ont-ils été intenvtés?",
-        answers:[
-            {
-                answer:'1814',
+                answer:'CAMEROUN',
                 corrrectAnswer:true,
             },
-            {
-                answer:'1834',
-                corrrectAnswer:false,
-            },
              {
-                answer:'1914',
+                answer:'MOZAMBIQUE',
                 corrrectAnswer:false,
             },
             {
-                answer:'1824',
+                answer:'BURKINA FASO',
                 corrrectAnswer:false,
             }
         ]
     },
     {
-        questionText:"Quel est le premier film de Disney?",
+        questionText:"Dans quelle ville africaine se déroule chaque années le FEMUA?",
         answers:[
             {
-                answer:'cendrillon',
+                answer:'KINSHASA',
                 corrrectAnswer:false,
             },
             {
-                answer:'Blanche-neige',
-                corrrectAnswer:true,
+                answer:'TRIPOLI',
+                corrrectAnswer:false,
             },
              {
-                answer:'Le roi lion',
-                corrrectAnswer:false,
+                answer:'DAKAR',
+                corrrectAnswer:true,
             },
             {
-                answer:'pinnochio',
+                answer:'ABIDJAN',
                 corrrectAnswer:false,
             }
         ]
     },
     {
-        questionText:"Qui a écrit 100 ans de solitude ?",
+        questionText:"Quel terme désigne une personne qui a peur de rester célibataire?",
         answers:[
             {
-                answer:'Victor Hugo',
-                corrrectAnswer:false,
+                answer:'ANUPTAPHOBE',
+                corrrectAnswer:true,
             },
             {
-                answer:'André Malraux',
+                answer:'BELENOPHOBE',
                 corrrectAnswer:false,
             },
              {
-                answer:'Emile Zola',
+                answer:'BRONTOPHOBE',
                 corrrectAnswer:false,
             },
             {
-                answer:'Gabriel García Márquez',
-                corrrectAnswer:true,
+                answer:'KATAGELOPHOBE',
+                corrrectAnswer:false,
             }
         ]
     },
     {
-        questionText:"Qui a inventé l'avion?",
+        questionText:"Dans quel pays africain peut-on admirer la beauté de la ville de GAMBELA?",
         answers:[
             {
-                answer:'Isaac Newton',
+                answer:'RDC',
                 corrrectAnswer:false,
             },
             {
-                answer:'Yann Tiersen',
+                answer:'BENIN',
                 corrrectAnswer:false,
             },
              {
-                answer:'Clément Ader',
+                answer:'ETHIOPIE',
+                corrrectAnswer:true,
+            },
+            {
+                answer:'MAROC',
+                corrrectAnswer:false,
+            }
+        ]
+    },
+    {
+        questionText:"De quelles équipes de Football anglais est composé le derby de la Mersy ?",
+        answers:[
+            {
+                answer:'CHELSEA VS MAN UTD',
+                corrrectAnswer:false,
+            },
+            {
+                answer:'ARSENAL VS CHELSEA',
+                corrrectAnswer:false,
+            },
+             {
+                answer:'EVERTON VS LIVERPOOL',
+                corrrectAnswer:true,
+            },
+            {
+                answer:'LEICESTER VS MAN CITY',
+                corrrectAnswer:false,
+            }
+        ]
+    },
+    {
+        questionText:"Quel était le premier nom donné au continent africain par les arabes et les carthaginois avant que les romain l'appellent Afrique?",
+        answers:[
+            {
+                answer:'ALKEBULAN',
+                corrrectAnswer:false,
+            },
+            {
+                answer:'GOMBE',
+                corrrectAnswer:false,
+            },
+             {
+                answer:'KEBAN',
                 corrrectAnswer:true,
             },
             {
