@@ -22,7 +22,7 @@ export default function Accueil (props){
                 <input  value={name} onChange={(e) => setName(e.target.value)} className="player-name" placeholder="nom du joueur"/><br/>
                 <button type="submit" className="btn-jouer">Jouer</button>
             </form>
-            <h3>{props.topScore}</h3>
+            <h3>Design by Romain KABASI</h3>
         </div>
     ) : <QuestionContain name={name}/>
     )
